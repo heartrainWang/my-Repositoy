@@ -1,0 +1,11 @@
+克隆：
+git clone https:github.com/userrname/project.git
+
+查看当前的状态：
+git status
+加入修改：
+git add .
+记录：
+git commit -m "my project push"
+上传：
+git push origin master
